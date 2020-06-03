@@ -31,12 +31,6 @@ class Song
     artist.add_song(self)
   end
 
-   
-  end 
-  
-  
- 
-
->>>>>>> 361e0a145a92faec50cc351dc018ed37d724ccd8
-  
 end 
+  
+  
